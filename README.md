@@ -14,4 +14,4 @@ Sequential black-box optimization of 8 synthetic functions using Gaussian Proces
 
 ## Weekly Progress
 - **Week 1:** Initialized setup, baseline models, and preliminary function evaluations.
-- **Week 2:** Refining acquisition hyperparameters and logging updated query points.
+- Week 2: Executed weekly query points across all 8 synthetic functions, tuning UCB exploration parameters and logging convergence metrics in Google Colab.
