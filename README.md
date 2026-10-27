@@ -36,6 +36,7 @@ This project focuses on systematically searching and optimizing unknown objectiv
 
 ---
 
-## 📈 Weekly Progress
-- **Week 1:** Setup, baseline models, and initial exploration.
-- **Weeks 2 & 3:** Executed weekly query points across all 8 functions, tuned UCB parameters, and structured technical reflections in Google Colab.
+* **Week 1:** Setup, baseline models, and initial exploration.
+* **Weeks 2 & 3:** Executed weekly query points across all 8 functions, tuned UCB parameters, and structured technical reflections.
+* **Week 4:** Generated and submitted Week 4 query points using the cumulative Gaussian Process model, appended new evaluation results, and completed module reflections and documentation.
+
